@@ -132,3 +132,4 @@ dmypy.json
 README.ipynb
 github.pdf
 stuff_to_ignore
+sandbox*
