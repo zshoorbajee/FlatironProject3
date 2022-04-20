@@ -135,11 +135,11 @@ The predictor that has the most influence on the model is whether or not someone
 
 **Below I examine the top 3 predictors even further. Drawing from the entire dataset, the effect that a doctor's recommendation, perception of risk, and health insurance all have on the outcome is clear.**
 
-<img src="./images/top_3_features.png" alt="Best and worst case scenarios">
+<img src="./images/top_3_features.png" alt="The effect of the top three features">
 
 **To really drive these findings home, here are what the best- and worst-case scenarios look like in terms of the top three predictors.**
 
-<img src="./images/best_worst_scenario.png" alt="Top 10 predictors in the final model.">
+<img src="./images/best_worst_scenario.png" alt="Best and worst case scenarios">
 
 **There is a stark contrast in likelihood of getting vaccinated between people who:**
 
