@@ -166,3 +166,9 @@ Are these findings generalizable to other public health crises? The data used in
 
 ### Limitations
 For comparison, I included various additional metric scores with the test set results. Of note, the final model has a recall score of 0.4788. This means that of all people who did in fact get the vaccine, the model will correctly predict them as positive cases 47.88% of the time. This is rather low. However, in the context of life-saving vaccines it is probably better to undercount the vaccinated. This way a public health authority will end up targeting more of the general population with pro-vaccine messaging and access, and hopefully capturing more of the unvaccincated population.
+
+#### For more information
+
+You can see the full analysis in this <a href="https://github.com/zshoorbajee/FlatironProject3/blob/main/index.ipynb">Jupyter Notebook</a>. A non-technnical presentation about the findings can be found <a href="https://github.com/zshoorbajee/FlatironProject3/blob/main/Presentation.pdf">here</a>.
+
+For any questions or feedback, you can contact me <a href="https://zaid.fyi/contact/">here</a>.
